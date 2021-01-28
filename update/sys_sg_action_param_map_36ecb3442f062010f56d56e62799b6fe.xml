@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Update Priority">7d69b3802f062010f56d56e62799b63f</button>
+        <item_parameter display_value="Update Priority">62117b0c2fc22010f56d56e62799b679</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:53:18</sys_created_on>
+        <sys_id>36ecb3442f062010f56d56e62799b6fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>62117b0c2fc22010f56d56e62799b679</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_36ecb3442f062010f56d56e62799b6fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:53:18</sys_updated_on>
+        <ui_parameter display_value="優先度の変更">cbf9b3c02f062010f56d56e62799b6b1</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
